@@ -9,6 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Application", "Cl
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Domain", "CleanArch.Domain", "{DDAA0D75-6FD2-4F82-8C58-6B21FE19F940}"
+	ProjectSection(SolutionItems) = preProject
+		NewTest.cs = NewTest.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Infra.Data", "CleanArch.Infra.Data", "{30DEE4D4-F593-41E3-88FA-DFA5A61DAACE}"
 EndProject
