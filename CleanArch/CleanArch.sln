@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Application", "CleanArch.Application", "{B57B68AB-078F-4DDD-AAAA-5AC16F33B488}"
+	ProjectSection(SolutionItems) = preProject
+		test1.cs = test1.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Domain", "CleanArch.Domain", "{DDAA0D75-6FD2-4F82-8C58-6B21FE19F940}"
 EndProject
